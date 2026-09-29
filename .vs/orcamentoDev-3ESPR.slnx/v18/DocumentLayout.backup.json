@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30F4BF20-9825-47F8-8591-D2C48CE26393}|orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj|c:\\users\\labsfiap\\desktop\\orcamentodev-3espr\\orcamentodev-3espr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{30F4BF20-9825-47F8-8591-D2C48CE26393}|orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj|solutionrelative:orcamentodev-3espr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Models\\Orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentoDev-3ESPR\\Models\\Orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Models\\OrcamentoUrgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentoDev-3ESPR\\Models\\OrcamentoUrgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentodev-3espr\\views\\frmorcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentodev-3espr\\views\\frmorcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentodev-3espr\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentodev-3espr\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentodev-3espr\\views\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentodev-3espr\\views\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentodev-3espr\\views\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentodev-3espr\\views\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Form1.cs",
-              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Form1.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Form1.cs [Design]",
-              "RelativeToolTip": "orcamentoDev-3ESPR\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "OrcamentoUrgente.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Models\\OrcamentoUrgente.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Models\\OrcamentoUrgente.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Models\\OrcamentoUrgente.cs",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Models\\OrcamentoUrgente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T00:30:25.488Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-29T00:34:59.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orcamento.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Models\\Orcamento.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Models\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Models\\Orcamento.cs",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Models\\Orcamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:34:44.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOrcamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmOrcamento.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Views\\FrmOrcamento.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmOrcamento.cs [Design]",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Views\\FrmOrcamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:34:07.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Views\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Views\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:33:38.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Views\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Views\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:32:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmSplash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmSplash.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Views\\FrmSplash.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Views\\FrmSplash.cs [Design]",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Views\\FrmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:32:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "orcamentoDev-3ESPR.csproj",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T00:32:01.047Z"
             }
           ]
         }

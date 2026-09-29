@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("orcamentoDev-3ESPR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30a9bf5e5f4c882231f1a8ff3830ead80fa54700")]
 [assembly: System.Reflection.AssemblyProductAttribute("orcamentoDev-3ESPR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("orcamentoDev-3ESPR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
