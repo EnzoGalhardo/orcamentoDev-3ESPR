@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4BF20-9825-47F8-8591-D2C48CE26393}|orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj|c:\\users\\labsfiap\\desktop\\orcamentodev-3espr\\orcamentodev-3espr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30F4BF20-9825-47F8-8591-D2C48CE26393}|orcamentoDev-3ESPR\\orcamentoDev-3ESPR.csproj|solutionrelative:orcamentodev-3espr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Form1.cs",
+              "RelativeDocumentMoniker": "orcamentoDev-3ESPR\\Form1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\orcamentoDev-3ESPR\\orcamentoDev-3ESPR\\Form1.cs [Design]",
+              "RelativeToolTip": "orcamentoDev-3ESPR\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T00:30:25.488Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
